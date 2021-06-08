@@ -1,0 +1,3 @@
+"D:\clion\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\AlgorithmFEQ1.dir/objects.a
+D:\mingw\mingw64\bin\ar.exe cr CMakeFiles\AlgorithmFEQ1.dir/objects.a @CMakeFiles\AlgorithmFEQ1.dir\objects1.rsp
+D:\mingw\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\AlgorithmFEQ1.dir/objects.a -Wl,--no-whole-archive  -o AlgorithmFEQ1.exe -Wl,--out-implib,libAlgorithmFEQ1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AlgorithmFEQ1.dir\linklibs.rsp
